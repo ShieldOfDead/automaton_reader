@@ -1,0 +1,13 @@
+A, B, OK
+0,1,2
+A
+OK
+A,0,A
+A,1,B
+A,2,OK
+B,0,B
+B,1,OK
+B,2,OK
+OK,0,OK
+OK,1,OK
+OK,2,OK

@@ -1,0 +1,25 @@
+Estados:
+Q = A,  B,  OK
+Entradas:
+E = 0, 1, 2
+Estado inicial:
+I = A
+Estado final:
+F = OK
+
+Vetor INPUT: 
+[0, 2]
+
+INPUT válido!
+
+O valor inicial é (A).
+Atualizei o posQ para (A) como a posição inicial.
+
+A posição no vetor INPUT é 0 com valor igual a [0]
+Atualizei o posQ para (A) com a entrada [0]
+
+A posição no vetor INPUT é 1 com valor igual a [2]
+Atualizei o posQ para (OK) com a entrada [2]
+
+O INPUT foi capaz de chegar no estado final (OK), portanto, o INPUT é válido!
+
